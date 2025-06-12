@@ -1,0 +1,2 @@
+# RGB_LED_STRIP_BOARD
+STM32-Based RGB LED Strip Controller
