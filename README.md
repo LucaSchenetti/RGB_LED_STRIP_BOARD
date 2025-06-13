@@ -24,3 +24,5 @@ This board is designed to control a 24VDC RGB LED strip using an STM32 microcont
 🛠 DIY smart lighting projects
 
 🏭 Industrial machine status indicators
+
+![Top View](https://github.com/user-attachments/assets/02b8a713-cca4-43f5-b971-78fcd21d7d26)
